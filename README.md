@@ -1,1 +1,2 @@
-# ml_and_ta
+# Machine Learning & Text Analysis 
+Решение задач из одноименного курс
